@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+    background-size: 100%;
+}
+
+.custom-gradient-color {
+    /* background-image: linear-gradient( 105.5deg, rgba(31, 212, 248, 1) 11%, rgba(218, 15, 183, 1) 74.9%); */
+    background-image: linear-gradient( 65.9deg, rgba(85, 228, 224, 1) 5.5%, rgba(75, 68, 224, 0.74) 54.2%, rgba(64, 198, 238, 1) 55.2%, rgba(177, 36, 224, 1) 98.4%);
+}
